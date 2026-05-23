@@ -69,6 +69,7 @@ The GUI requires Python 3.x and the following libraries:
 Install the required dependencies via pip:
 ```bash
 pip install pyserial matplotlib
+```
 
 ### How to Run the GUI
 1. Connect the Nucleo-F303K8 to your PC via USB.
@@ -78,6 +79,7 @@ pip install pyserial matplotlib
 
 ```bash
 python noise_monitor_gui.py
+```
 
 5. Select the appropriate COM Port from the dropdown menu.
 
